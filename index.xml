@@ -331,7 +331,10 @@ $$&lt;/p&gt;
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/challenge/</guid>
-      <description></description>
+      <description>&lt;p&gt;We participated in gastrointestinal image analysis (GIANA) challenge for detection of polyps from colonoscopy videos, and vascular
+lesion and inflammation diseases detection from CVE videos. The challenge is organized along international conference on medical image computing and computer
+assisted intervention (MICCAI2018). A new set of training dataset is provided and ground truth data for the test dataset was kept with the challenge organizers.&lt;/p&gt;
+</description>
     </item>
     
     <item>
