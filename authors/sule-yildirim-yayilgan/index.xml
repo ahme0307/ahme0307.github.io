@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sule Yildirim Yayilgan on Mohammed Ahmed</title>
-    <link>/authors/sule-yildirim-yayilgan/</link>
-    <description>Recent content in Sule Yildirim Yayilgan on Mohammed Ahmed</description>
+    <title>Sule Yildirim Yayilgan on Ahmed Mohammed</title>
+    <link>//localhost:1313/authors/sule-yildirim-yayilgan/</link>
+    <description>Recent content in Sule Yildirim Yayilgan on Ahmed Mohammed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/sule-yildirim-yayilgan/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="//localhost:1313/authors/sule-yildirim-yayilgan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>StreoScenNet: Surgical Stereo Robotic Scene segmentation (SPIE MI 2019)</title>
-      <link>/publication/spieahmed/</link>
+      <link>//localhost:1313/publication/spieahmed/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/spieahmed/</guid>
+      <guid>//localhost:1313/publication/spieahmed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y-Net: A deep Convolutional Neural Network for Polyp Detection (BMVC 2018)</title>
-      <link>/publication/ynet/</link>
+      <link>//localhost:1313/publication/ynet/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ynet/</guid>
+      <guid>//localhost:1313/publication/ynet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic Capsule Endoscopy Image Enhancement (JI 2018)</title>
-      <link>/publication/cce/</link>
+      <link>//localhost:1313/publication/cce/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cce/</guid>
+      <guid>//localhost:1313/publication/cce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep-STRESS Capsule Video Endoscopy Image Enhancement (CIC 2018)</title>
-      <link>/publication/cic1/</link>
+      <link>//localhost:1313/publication/cic1/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cic1/</guid>
+      <guid>//localhost:1313/publication/cic1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Approach for Capsule Video Frame Interpolation (EURASIP JIVP 2018)</title>
-      <link>/publication/tsr/</link>
+      <link>//localhost:1313/publication/tsr/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/tsr/</guid>
+      <guid>//localhost:1313/publication/tsr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sparse coded handcrafted and deep features for colon capsule video summarization (IEEE CBMS 2017)</title>
-      <link>/publication/summary/</link>
+      <link>//localhost:1313/publication/summary/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/summary/</guid>
+      <guid>//localhost:1313/publication/summary/</guid>
       <description></description>
     </item>
     

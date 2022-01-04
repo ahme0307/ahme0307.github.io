@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Olga Cherepkova on Mohammed Ahmed</title>
-    <link>/authors/olga-cherepkova/</link>
-    <description>Recent content in Olga Cherepkova on Mohammed Ahmed</description>
+    <title>Olga Cherepkova on Ahmed Mohammed</title>
+    <link>//localhost:1313/authors/olga-cherepkova/</link>
+    <description>Recent content in Olga Cherepkova on Ahmed Mohammed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/olga-cherepkova/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="//localhost:1313/authors/olga-cherepkova/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Image Quality Metrics for the Evaluation and Optimization of Capsule Video EndoscopyEnhancement Techniques (JIST 2017)</title>
-      <link>/publication/olga/</link>
+      <link>//localhost:1313/publication/olga/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/olga/</guid>
+      <guid>//localhost:1313/publication/olga/</guid>
       <description></description>
     </item>
     

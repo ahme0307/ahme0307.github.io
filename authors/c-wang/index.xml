@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C Wang on Mohammed Ahmed</title>
-    <link>/authors/c-wang/</link>
-    <description>Recent content in C Wang on Mohammed Ahmed</description>
+    <title>C Wang on Ahmed Mohammed</title>
+    <link>//localhost:1313/authors/c-wang/</link>
+    <description>Recent content in C Wang on Ahmed Mohammed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/c-wang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="//localhost:1313/authors/c-wang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Multiscale deep desmoking for laparoscopic surgery (SPIE MI 2019)</title>
-      <link>/publication/spiecong/</link>
+      <link>//localhost:1313/publication/spiecong/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/spiecong/</guid>
+      <guid>//localhost:1313/publication/spiecong/</guid>
       <description></description>
     </item>
     

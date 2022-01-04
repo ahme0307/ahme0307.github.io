@@ -1,141 +1,247 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Mohammed Ahmed</title>
-    <link>/authors/</link>
-    <description>Recent content in Authors on Mohammed Ahmed</description>
+    <title>Authors on Ahmed Mohammed</title>
+    <link>//localhost:1313/authors/</link>
+    <description>Recent content in Authors on Ahmed Mohammed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <link>//localhost:1313/authors/admin/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
-      <description>&lt;div style=&#34;text-align: justify&#34;&gt; &amp;emsp; &lt;h4&gt;Ahmed Kedir&lt;/h4&gt;
-&lt;p&gt;I am a Ph.D. student in the department of computer science at Norwegian University of Science and Technology, advised by &lt;a href=&#34;https://www.ntnu.edu/employees/sule.yildirim&#34;&gt;  Sule Yildirim Yayilgan&lt;/a&gt;,  &lt;a href=&#34;https://www.ntnu.no/ansatte/marius.pedersen&#34;&gt;  Marius Pedersen&lt;/a&gt; and &lt;a href=&#34;https://www.med.uio.no/klinmed/personer/vit/oisteih/index.html&#34;&gt;Øistein Hovde&lt;/a&gt; . Before that, I received a Master degree from Chonbuk National University (Jeonju, South Korea) in 2014 and a Bachelor degree from Addis Ababa University (Addis Ababa, Ethiopia) in 2009. &lt;/p&gt;&lt;p&gt;My research interests are broadly in artificial intelligence, with emphasis on medical imaging and computer vision. My current work focuses on capsule video endoscopy image and video quality enhancement for improved visual and automatic polyps/cancer and ulcerative colitis detection. &lt;/p&gt; &lt;p&gt;Would you be interested in collaborating? then drop me an email or connect on LinkedIn  &lt;/p&gt;&lt;/div&gt;
+      <guid>//localhost:1313/authors/admin/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;h4 id=&#34;heading&#34;&gt;&lt;/h4&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;I am a &lt;a href=&#34;https://www.sintef.no/en/all-employees/employee/8015/&#34;&gt;Research scientist&lt;/a&gt; at Sintef Digital and an &lt;a href=&#34;https://www.ntnu.edu/employees/mohammed.kedir&#34;&gt;Adjunct associate professor&lt;/a&gt; position at NTNU. I did my Ph.D. at the department of computer science at the Norwegian University of Science and Technology, advised by &lt;a href=&#34;https://www.ntnu.edu/employees/sule.yildirim&#34;&gt;Sule Yildirim Yayilgan&lt;/a&gt;, &lt;a href=&#34;https://www.ntnu.no/ansatte/marius.pedersen&#34;&gt;Marius Pedersen&lt;/a&gt;, and &lt;a href=&#34;https://www.med.uio.no/klinmed/personer/vit/oisteih/index.html&#34;&gt;Øistein Hovde&lt;/a&gt;. Before that, I received a Master&amp;rsquo;s degree from Chonbuk National University (Jeonju, South Korea) in 2014 and a Bachelor&amp;rsquo;s degree from Addis Ababa University (Addis Ababa, Ethiopia) in 2009.&lt;/p&gt;
+&lt;p&gt;My research interests are broadly in Machine learning and computer vision, with emphasis on 3D vision and medical imaging for explainable and data-efficient learning. My current work focuses on deep learning for point cloud processing, underwater navigation, and capsule video endoscopy.&lt;/p&gt;
+&lt;p&gt;Would you be interested in collaborating? then drop me an email or connect on LinkedIn&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Below are sample projects I have worked on:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
     
     <item>
-      <title>Ivar Farup</title>
-      <link>/authors/ivar-farup/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Anuja Vats</title>
+      <link>//localhost:1313/authors/anuja-vats/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/authors/ivar-farup/</guid>
+      <guid>//localhost:1313/authors/anuja-vats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marius Pedersen</title>
-      <link>/authors/marius-pedersen/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <link>//localhost:1313/authors/marius-pedersen/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/authors/marius-pedersen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sule Yildirim Yayilgan</title>
-      <link>/authors/sule-yildirim-yayilgan/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/sule-yildirim-yayilgan/</guid>
+      <guid>//localhost:1313/authors/marius-pedersen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Øistein Hovde</title>
-      <link>/authors/%C3%B8istein-hovde/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <link>//localhost:1313/authors/%C3%B8istein-hovde/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/authors/%C3%B8istein-hovde/</guid>
+      <guid>//localhost:1313/authors/%C3%B8istein-hovde/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Azeddine Beghdadi</title>
-      <link>/authors/azeddine-beghdadi/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Karl Henrik Haugholt</title>
+      <link>//localhost:1313/authors/karl-henrik-haugholt/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/authors/azeddine-beghdadi/</guid>
+      <guid>//localhost:1313/authors/karl-henrik-haugholt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>C Wang</title>
-      <link>/authors/c-wang/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Peter Ørnulf Ivarsen</title>
+      <link>//localhost:1313/authors/peter-%C3%B8rnulf-ivarsen/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/authors/c-wang/</guid>
+      <guid>//localhost:1313/authors/peter-%C3%B8rnulf-ivarsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Petter Risholm</title>
+      <link>//localhost:1313/authors/petter-risholm/</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/petter-risholm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jens T. Thielemann</title>
+      <link>//localhost:1313/authors/jens-t.-thielemann/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/jens-t.-thielemann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Kvam</title>
+      <link>//localhost:1313/authors/johannes-kvam/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/johannes-kvam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karl H. Haugholt</title>
+      <link>//localhost:1313/authors/karl-h.-haugholt/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/karl-h.-haugholt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivar Farup</title>
+      <link>//localhost:1313/authors/ivar-farup/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/ivar-farup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sule Yildirim</title>
+      <link>//localhost:1313/authors/sule-yildirim/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/sule-yildirim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congcong Wang</title>
+      <link>//localhost:1313/authors/congcong-wang/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/congcong-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faouzi Alaya Cheikh</title>
-      <link>/authors/faouzi-alaya-cheikh/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <link>//localhost:1313/authors/faouzi-alaya-cheikh/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/authors/faouzi-alaya-cheikh/</guid>
+      <guid>//localhost:1313/authors/faouzi-alaya-cheikh/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ole Jacob Elle</title>
-      <link>/authors/ole-jacob-elle/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Hao Wang</title>
+      <link>//localhost:1313/authors/hao-wang/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/authors/ole-jacob-elle/</guid>
+      <guid>//localhost:1313/authors/hao-wang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Faouzi Cheikh</title>
-      <link>/authors/faouzi-cheikh/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <title>Meng Zhao</title>
+      <link>//localhost:1313/authors/meng-zhao/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/authors/faouzi-cheikh/</guid>
+      <guid>//localhost:1313/authors/meng-zhao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mohib Ullah</title>
-      <link>/authors/mohib-ullah/</link>
+      <link>//localhost:1313/authors/mohib-ullah/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/mohib-ullah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rabia Naseem</title>
+      <link>//localhost:1313/authors/rabia-naseem/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/rabia-naseem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sule Yildirim Yayilgan</title>
+      <link>//localhost:1313/authors/sule-yildirim-yayilgan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/sule-yildirim-yayilgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azeddine Beghdadi</title>
+      <link>//localhost:1313/authors/azeddine-beghdadi/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/azeddine-beghdadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Wang</title>
+      <link>//localhost:1313/authors/c-wang/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/c-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ole Jacob Elle</title>
+      <link>//localhost:1313/authors/ole-jacob-elle/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/ole-jacob-elle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faouzi Cheikh</title>
+      <link>//localhost:1313/authors/faouzi-cheikh/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/mohib-ullah/</guid>
+      <guid>//localhost:1313/authors/faouzi-cheikh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zhaohui Wang</title>
-      <link>/authors/zhaohui-wang/</link>
+      <link>//localhost:1313/authors/zhaohui-wang/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/zhaohui-wang/</guid>
+      <guid>//localhost:1313/authors/zhaohui-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Olga Cherepkova</title>
-      <link>/authors/olga-cherepkova/</link>
+      <link>//localhost:1313/authors/olga-cherepkova/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/authors/olga-cherepkova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ahme0307</title>
-      <link>/authors/ahme0307/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/ahme0307/</guid>
+      <guid>//localhost:1313/authors/olga-cherepkova/</guid>
       <description></description>
     </item>
     

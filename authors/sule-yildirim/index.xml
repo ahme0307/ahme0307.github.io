@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sule Yildirim on Ahmed Mohammed</title>
+    <link>//localhost:1313/authors/sule-yildirim/</link>
+    <description>Recent content in Sule Yildirim on Ahmed Mohammed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="//localhost:1313/authors/sule-yildirim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PS-DeVCEM: Pathology-sensitive deep learning model for video capsule endoscopy based on weakly labeled data (Computer Vision and Image Understanding)</title>
+      <link>//localhost:1313/publication/mohammed2020ps/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/mohammed2020ps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

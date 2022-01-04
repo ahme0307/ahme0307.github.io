@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Congcong Wang on Ahmed Mohammed</title>
+    <link>//localhost:1313/authors/congcong-wang/</link>
+    <description>Recent content in Congcong Wang on Ahmed Mohammed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="//localhost:1313/authors/congcong-wang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weakly-Supervised Network for Detection of COVID-19 in Chest CT Scans (IEEE Access)</title>
+      <link>//localhost:1313/publication/mohammed2020weakly/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/mohammed2020weakly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

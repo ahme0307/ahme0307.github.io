@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhaohui Wang on Mohammed Ahmed</title>
-    <link>/authors/zhaohui-wang/</link>
-    <description>Recent content in Zhaohui Wang on Mohammed Ahmed</description>
+    <title>Zhaohui Wang on Ahmed Mohammed</title>
+    <link>//localhost:1313/authors/zhaohui-wang/</link>
+    <description>Recent content in Zhaohui Wang on Ahmed Mohammed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/zhaohui-wang/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="//localhost:1313/authors/zhaohui-wang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A HIERARCHICAL FEATURE MODEL FOR MULTI-TARGET TRACKING (IEEE ICIP 2017)</title>
-      <link>/publication/mohibicip/</link>
+      <link>//localhost:1313/publication/mohibicip/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/mohibicip/</guid>
+      <guid>//localhost:1313/publication/mohibicip/</guid>
       <description></description>
     </item>
     

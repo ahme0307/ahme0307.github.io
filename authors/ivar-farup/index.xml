@@ -1,49 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ivar Farup on Mohammed Ahmed</title>
-    <link>/authors/ivar-farup/</link>
-    <description>Recent content in Ivar Farup on Mohammed Ahmed</description>
+    <title>Ivar Farup on Ahmed Mohammed</title>
+    <link>//localhost:1313/authors/ivar-farup/</link>
+    <description>Recent content in Ivar Farup on Ahmed Mohammed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/ivar-farup/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="//localhost:1313/authors/ivar-farup/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>PS-DeVCEM: Pathology-sensitive deep learning model for video capsule endoscopy based on weakly labeled data (Computer Vision and Image Understanding)</title>
+      <link>//localhost:1313/publication/mohammed2020ps/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/mohammed2020ps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>StreoScenNet: Surgical Stereo Robotic Scene segmentation (SPIE MI 2019)</title>
-      <link>/publication/spieahmed/</link>
+      <link>//localhost:1313/publication/spieahmed/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/spieahmed/</guid>
+      <guid>//localhost:1313/publication/spieahmed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y-Net: A deep Convolutional Neural Network for Polyp Detection (BMVC 2018)</title>
-      <link>/publication/ynet/</link>
+      <link>//localhost:1313/publication/ynet/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ynet/</guid>
+      <guid>//localhost:1313/publication/ynet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic Capsule Endoscopy Image Enhancement (JI 2018)</title>
-      <link>/publication/cce/</link>
+      <link>//localhost:1313/publication/cce/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cce/</guid>
+      <guid>//localhost:1313/publication/cce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Approach for Capsule Video Frame Interpolation (EURASIP JIVP 2018)</title>
-      <link>/publication/tsr/</link>
+      <link>//localhost:1313/publication/tsr/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/tsr/</guid>
+      <guid>//localhost:1313/publication/tsr/</guid>
       <description></description>
     </item>
     

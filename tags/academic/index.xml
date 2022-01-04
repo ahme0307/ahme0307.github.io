@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Mohammed Ahmed</title>
-    <link>/tags/academic/</link>
-    <description>Recent content in Academic on Mohammed Ahmed</description>
+    <title>Academic on Ahmed Mohammed</title>
+    <link>//localhost:1313/tags/academic/</link>
+    <description>Recent content in Academic on Ahmed Mohammed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="//localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MICCAI2018 GIANA challenge</title>
-      <link>/post/challenge/</link>
+      <link>//localhost:1313/post/challenge/</link>
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/challenge/</guid>
+      <guid>//localhost:1313/post/challenge/</guid>
       <description>&lt;p&gt;We participated in gastrointestinal image analysis (GIANA) challenge for detection of polyps from colonoscopy videos, and vascular
 lesion and inflammation diseases detection from CVE videos. The challenge is organized along international conference on medical image computing and computer
 assisted intervention (MICCAI2018). A new set of training dataset is provided and ground truth data for the test dataset was kept with the challenge organizers.&lt;/p&gt;
@@ -25,28 +25,28 @@ assisted intervention (MICCAI2018). A new set of training dataset is provided an
     
     <item>
       <title>Introduction to CNN with pytorch</title>
-      <link>/post/jupyter/</link>
+      <link>//localhost:1313/post/jupyter/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/jupyter/</guid>
+      <guid>//localhost:1313/post/jupyter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subjective image quality evaluation tool</title>
-      <link>/post/imageeval/</link>
+      <link>//localhost:1313/post/imageeval/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/imageeval/</guid>
+      <guid>//localhost:1313/post/imageeval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video Quality Assessment</title>
-      <link>/post/videoeval/</link>
+      <link>//localhost:1313/post/videoeval/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/videoeval/</guid>
+      <guid>//localhost:1313/post/videoeval/</guid>
       <description></description>
     </item>
     

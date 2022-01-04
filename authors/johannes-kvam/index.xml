@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Kvam on Ahmed Mohammed</title>
+    <link>//localhost:1313/authors/johannes-kvam/</link>
+    <description>Recent content in Johannes Kvam on Ahmed Mohammed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="//localhost:1313/authors/johannes-kvam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>6D Pose Estimation for Subsea Intervention in Turbid Waters (Electronics)</title>
+      <link>//localhost:1313/publication/mohammed20216d/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/mohammed20216d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

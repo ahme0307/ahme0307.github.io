@@ -1,67 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Øistein Hovde on Mohammed Ahmed</title>
-    <link>/authors/%C3%B8istein-hovde/</link>
-    <description>Recent content in Øistein Hovde on Mohammed Ahmed</description>
+    <title>Øistein Hovde on Ahmed Mohammed</title>
+    <link>//localhost:1313/authors/%C3%B8istein-hovde/</link>
+    <description>Recent content in Øistein Hovde on Ahmed Mohammed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/%C3%B8istein-hovde/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="//localhost:1313/authors/%C3%B8istein-hovde/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Learning More for Free - A Multi Task Learning Approach for Improved Pathology Classification in Capsule Endoscopy (MICCAI 2021)</title>
+      <link>//localhost:1313/publication/vats2021learning/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/vats2021learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PS-DeVCEM: Pathology-sensitive deep learning model for video capsule endoscopy based on weakly labeled data (Computer Vision and Image Understanding)</title>
+      <link>//localhost:1313/publication/mohammed2020ps/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/mohammed2020ps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>StreoScenNet: Surgical Stereo Robotic Scene segmentation (SPIE MI 2019)</title>
-      <link>/publication/spieahmed/</link>
+      <link>//localhost:1313/publication/spieahmed/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/publication/spieahmed/</guid>
+      <guid>//localhost:1313/publication/spieahmed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Y-Net: A deep Convolutional Neural Network for Polyp Detection (BMVC 2018)</title>
-      <link>/publication/ynet/</link>
+      <link>//localhost:1313/publication/ynet/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ynet/</guid>
+      <guid>//localhost:1313/publication/ynet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stochastic Capsule Endoscopy Image Enhancement (JI 2018)</title>
-      <link>/publication/cce/</link>
+      <link>//localhost:1313/publication/cce/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cce/</guid>
+      <guid>//localhost:1313/publication/cce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep-STRESS Capsule Video Endoscopy Image Enhancement (CIC 2018)</title>
-      <link>/publication/cic1/</link>
+      <link>//localhost:1313/publication/cic1/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cic1/</guid>
+      <guid>//localhost:1313/publication/cic1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Approach for Capsule Video Frame Interpolation (EURASIP JIVP 2018)</title>
-      <link>/publication/tsr/</link>
+      <link>//localhost:1313/publication/tsr/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/tsr/</guid>
+      <guid>//localhost:1313/publication/tsr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sparse coded handcrafted and deep features for colon capsule video summarization (IEEE CBMS 2017)</title>
-      <link>/publication/summary/</link>
+      <link>//localhost:1313/publication/summary/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/summary/</guid>
+      <guid>//localhost:1313/publication/summary/</guid>
       <description></description>
     </item>
     

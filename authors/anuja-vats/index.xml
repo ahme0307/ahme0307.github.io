@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anuja Vats on Ahmed Mohammed</title>
+    <link>//localhost:1313/authors/anuja-vats/</link>
+    <description>Recent content in Anuja Vats on Ahmed Mohammed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="//localhost:1313/authors/anuja-vats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning More for Free - A Multi Task Learning Approach for Improved Pathology Classification in Capsule Endoscopy (MICCAI 2021)</title>
+      <link>//localhost:1313/publication/vats2021learning/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/vats2021learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

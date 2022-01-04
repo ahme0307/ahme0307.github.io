@@ -1,40 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Mohammed Ahmed</title>
-    <link>/publication_types/2/</link>
-    <description>Recent content in 2 on Mohammed Ahmed</description>
+    <title>2 on Ahmed Mohammed</title>
+    <link>//localhost:1313/publication_types/2/</link>
+    <description>Recent content in 2 on Ahmed Mohammed</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="//localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>6D Pose Estimation for Subsea Intervention in Turbid Waters (Electronics)</title>
+      <link>//localhost:1313/publication/mohammed20216d/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/mohammed20216d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photo Identification of Individual Salmo trutta Based on Deep Learning (Applied Sciences)</title>
+      <link>//localhost:1313/publication/pedersen2021photo/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/pedersen2021photo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PS-DeVCEM: Pathology-sensitive deep learning model for video capsule endoscopy based on weakly labeled data (Computer Vision and Image Understanding)</title>
+      <link>//localhost:1313/publication/mohammed2020ps/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/mohammed2020ps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly-Supervised Network for Detection of COVID-19 in Chest CT Scans (IEEE Access)</title>
+      <link>//localhost:1313/publication/mohammed2020weakly/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publication/mohammed2020weakly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stochastic Capsule Endoscopy Image Enhancement (JI 2018)</title>
-      <link>/publication/cce/</link>
+      <link>//localhost:1313/publication/cce/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/cce/</guid>
+      <guid>//localhost:1313/publication/cce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variational Approach for Capsule Video Frame Interpolation (EURASIP JIVP 2018)</title>
-      <link>/publication/tsr/</link>
+      <link>//localhost:1313/publication/tsr/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/tsr/</guid>
+      <guid>//localhost:1313/publication/tsr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Quality Metrics for the Evaluation and Optimization of Capsule Video EndoscopyEnhancement Techniques (JIST 2017)</title>
-      <link>/publication/olga/</link>
+      <link>//localhost:1313/publication/olga/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/olga/</guid>
+      <guid>//localhost:1313/publication/olga/</guid>
       <description></description>
     </item>
     
